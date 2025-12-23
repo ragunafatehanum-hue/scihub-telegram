@@ -1,7 +1,7 @@
 TELEGRAM_API = 'https://api.telegram.org/bot'
 USERS_LAST_UPDATE = 'users.txt'
 CROSSREF_TITLE_SEARCH = 'https://api.crossref.org/works'
-TOKEN = ''
+TOKEN = '6983278827:AAFQkLutwNrBqxXSAjOOiSqlJ-pU2-frsUw'
 
 URLS = [ 'https://sci-hub.cc', \
          'https://sci-hub.hk', \
